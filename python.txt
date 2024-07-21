@@ -1,1 +1,3 @@
 pyhton is a general purpose obejct oriented programming language
+
+Paython is used in mahcine lanagage and data science
